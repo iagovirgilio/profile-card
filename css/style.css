@@ -47,7 +47,7 @@
 }
 
 .img:hover{
-    transition: border 300ms;
+    transition-duration: 2400ms;
     cursor: pointer;
     border: 8px solid #ddd6d6
 }
